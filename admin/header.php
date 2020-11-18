@@ -96,3 +96,17 @@
             </div>
         </header>
         <!-- header section end -->
+
+
+        <!-- pages-title-start -->
+        <section class="contact-img-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- pages-title-end -->
+

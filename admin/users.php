@@ -14,14 +14,16 @@
             </div>
         </section>
     <!-- pages-title-end -->
+
 <!-- my account content section start -->
 <section class="collapse_area coll2">
     <div class="container">
         <div class="row">
             <div class="col-md-12 col-sm-12">
-                <!-- <div class="check">
+                <div class="check">
                     <h2>Users Account</h2>
-                </div> -->
+                </div>
+
                 <div class="faq-accordion">
                     <div class="panel-group pas7" id="accordion" role="tablist" aria-multiselectable="true">
                         <div class="panel panel-default">
